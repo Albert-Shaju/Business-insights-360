@@ -182,19 +182,19 @@ In Home view, all the views button will be available. User will land on specific
 ![finance view](https://github.com/Albert-Shaju/Business-insights-360/blob/main/finance%20view.png)
 ## Sales View
 
-[Sales](https://github.com/Albert-Shaju/Business-insights-360/blob/main/sales%20view.png)
+![Sales](https://github.com/Albert-Shaju/Business-insights-360/blob/main/sales%20view.png)
 
 ## Marketing View
 
-[Marketing](https://github.com/Albert-Shaju/Business-insights-360/blob/main/marketing%20view.png)
+![Marketing](https://github.com/Albert-Shaju/Business-insights-360/blob/main/marketing%20view.png)
 
 ## Supply chain View
 
-[Supply chain](https://github.com/Albert-Shaju/Business-insights-360/blob/main/supply%20chain%20view.png)
+![Supply chain](https://github.com/Albert-Shaju/Business-insights-360/blob/main/supply%20chain%20view.png)
 
 ## Executive View
 
-[Executive](https://github.com/Albert-Shaju/Business-insights-360/blob/main/executive%20view.png)
+![Executive](https://github.com/Albert-Shaju/Business-insights-360/blob/main/executive%20view.png)
 
 ## Project Outcome
 
